@@ -1,0 +1,3 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+devtools::install_github("https://github.com/MATHSTATSOU/Intro2R.git", build_vignettes = TRUE,force = TRUE)
